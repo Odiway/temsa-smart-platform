@@ -1,4 +1,4 @@
-/*"use client"; // Sadece App Router kullanıyorsan ekle
+"use client"; // Sadece App Router kullanıyorsan ekle
 import Navbar from "@/components/Navbar";
 import { useEffect, useState } from "react";
 import axios from "axios";
@@ -16,12 +16,9 @@ interface VehicleData {
   };
 }
 
-const Home = () => {
-  
-  const [data, setData] = useState<any[]>([]);
-
-
-  // Başlangıç verisi
+const Dashboard = () => {
+      const [data, setData] = useState<any[]>([]);
+      // Başlangıç verisi
   useEffect(() => {
     const fetchData = async () => {
       try {
@@ -38,11 +35,12 @@ const Home = () => {
   }, []);
 
   return (
+    <>
+      <Navbar />
+      <> 
     
-    <> 
-    
-    <div style={{ padding: "2rem" }}>
-      <h1>📊 Live Vehicle Dashboard</h1>
+    <div style={{ padding: "18rem" }}>
+      <h1 className="text-4xl font-bold text-blue-700 ">📊 Live Vehicle Dashboard</h1>
     
       <ResponsiveContainer width="100%" height={300}>
         <LineChart data={data}>
@@ -56,22 +54,9 @@ const Home = () => {
       </ResponsiveContainer>
     </div>
     </>
+
+    </>
   );
 };
 
-export default Home;
-*/
-"use client";
-import Navbar from "@/components/Navbar";
-
-const Home = () => {
-  return (
-    <>
-      <Navbar />
-      <div className="flex items-center justify-center h-screen">
-        <h1 className="text-4xl font-bold text-blue-700">TEMSA Smart Platform</h1>
-      </div>
-    </>
-  );
-}
- export default Home;
+export default Dashboard;
