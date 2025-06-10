@@ -130210,5 +130210,1637 @@
         "lon": 34.564863
       }
     }
+  },
+  {
+    "timestamp": "2025-06-04T09:50:21.659980Z",
+    "data": {
+      "speed": 107.56,
+      "engine_temp": 76.97,
+      "fuel_level": 83.41,
+      "location": {
+        "lat": 36.860687,
+        "lon": 34.557112
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T09:50:23.962713Z",
+    "data": {
+      "speed": 52.12,
+      "engine_temp": 77.2,
+      "fuel_level": 50.62,
+      "location": {
+        "lat": 36.894048,
+        "lon": 34.642182
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T09:50:25.648520Z",
+    "data": {
+      "speed": 103.14,
+      "engine_temp": 76.26,
+      "fuel_level": 66.74,
+      "location": {
+        "lat": 36.845308,
+        "lon": 34.510739
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T09:50:27.971588Z",
+    "data": {
+      "speed": 87.3,
+      "engine_temp": 79.46,
+      "fuel_level": 95.3,
+      "location": {
+        "lat": 36.991695,
+        "lon": 34.631592
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T09:50:29.651189Z",
+    "data": {
+      "speed": 91.31,
+      "engine_temp": 95.85,
+      "fuel_level": 64.98,
+      "location": {
+        "lat": 36.91101,
+        "lon": 34.656375
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T09:50:31.963053Z",
+    "data": {
+      "speed": 73.16,
+      "engine_temp": 88.91,
+      "fuel_level": 50.64,
+      "location": {
+        "lat": 36.881319,
+        "lon": 34.53675
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T09:50:33.637518Z",
+    "data": {
+      "speed": 78.59,
+      "engine_temp": 86.35,
+      "fuel_level": 54.22,
+      "location": {
+        "lat": 36.814888,
+        "lon": 34.613594
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T09:50:35.959077Z",
+    "data": {
+      "speed": 65.53,
+      "engine_temp": 73.16,
+      "fuel_level": 20.09,
+      "location": {
+        "lat": 36.843705,
+        "lon": 34.646072
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T09:50:37.650971Z",
+    "data": {
+      "speed": 43.49,
+      "engine_temp": 91.99,
+      "fuel_level": 89.08,
+      "location": {
+        "lat": 36.971443,
+        "lon": 34.571616
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T09:50:39.951998Z",
+    "data": {
+      "speed": 52.47,
+      "engine_temp": 85.74,
+      "fuel_level": 24.65,
+      "location": {
+        "lat": 36.800492,
+        "lon": 34.639139
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T09:50:41.650970Z",
+    "data": {
+      "speed": 60.08,
+      "engine_temp": 100.07,
+      "fuel_level": 95.89,
+      "location": {
+        "lat": 36.889646,
+        "lon": 34.575038
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T09:50:43.947553Z",
+    "data": {
+      "speed": 76.38,
+      "engine_temp": 77.41,
+      "fuel_level": 97.75,
+      "location": {
+        "lat": 36.851436,
+        "lon": 34.526609
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T09:50:45.640904Z",
+    "data": {
+      "speed": 95.21,
+      "engine_temp": 104.97,
+      "fuel_level": 33.13,
+      "location": {
+        "lat": 36.940889,
+        "lon": 34.697189
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T09:50:47.958647Z",
+    "data": {
+      "speed": 75.02,
+      "engine_temp": 77.08,
+      "fuel_level": 46.35,
+      "location": {
+        "lat": 36.900509,
+        "lon": 34.573938
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:13:58.262215Z",
+    "data": {
+      "speed": 117.66,
+      "engine_temp": 71.13,
+      "fuel_level": 52.54,
+      "location": {
+        "lat": 36.867802,
+        "lon": 34.594821
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:13:59.960878Z",
+    "data": {
+      "speed": 68.69,
+      "engine_temp": 97.92,
+      "fuel_level": 76.66,
+      "location": {
+        "lat": 36.974282,
+        "lon": 34.542866
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:14:02.274141Z",
+    "data": {
+      "speed": 71.97,
+      "engine_temp": 87.33,
+      "fuel_level": 31.38,
+      "location": {
+        "lat": 36.92719,
+        "lon": 34.612566
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:14:03.949427Z",
+    "data": {
+      "speed": 66.66,
+      "engine_temp": 83.97,
+      "fuel_level": 29.39,
+      "location": {
+        "lat": 36.801799,
+        "lon": 34.584354
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:14:06.260084Z",
+    "data": {
+      "speed": 63.04,
+      "engine_temp": 91.04,
+      "fuel_level": 69.69,
+      "location": {
+        "lat": 36.8377,
+        "lon": 34.504448
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:26:03.492236Z",
+    "data": {
+      "speed": 65.14,
+      "engine_temp": 92.1,
+      "fuel_level": 81.56,
+      "location": {
+        "lat": 36.866352,
+        "lon": 34.683452
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:26:05.177816Z",
+    "data": {
+      "speed": 88.03,
+      "engine_temp": 89.5,
+      "fuel_level": 59.64,
+      "location": {
+        "lat": 36.80658,
+        "lon": 34.6326
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:26:07.502899Z",
+    "data": {
+      "speed": 116.11,
+      "engine_temp": 97.47,
+      "fuel_level": 70.41,
+      "location": {
+        "lat": 36.817292,
+        "lon": 34.6523
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:26:09.186860Z",
+    "data": {
+      "speed": 40.73,
+      "engine_temp": 81.62,
+      "fuel_level": 50.69,
+      "location": {
+        "lat": 36.818942,
+        "lon": 34.68173
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:26:11.483058Z",
+    "data": {
+      "speed": 102.05,
+      "engine_temp": 77.41,
+      "fuel_level": 62.5,
+      "location": {
+        "lat": 36.882075,
+        "lon": 34.588774
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:26:13.182654Z",
+    "data": {
+      "speed": 95.78,
+      "engine_temp": 82.46,
+      "fuel_level": 11.64,
+      "location": {
+        "lat": 36.952242,
+        "lon": 34.596395
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:26:15.490388Z",
+    "data": {
+      "speed": 41.6,
+      "engine_temp": 102.36,
+      "fuel_level": 95.44,
+      "location": {
+        "lat": 36.996103,
+        "lon": 34.575317
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:26:17.183618Z",
+    "data": {
+      "speed": 113.1,
+      "engine_temp": 71.77,
+      "fuel_level": 60.69,
+      "location": {
+        "lat": 36.990433,
+        "lon": 34.595644
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:26:19.491816Z",
+    "data": {
+      "speed": 92.2,
+      "engine_temp": 70.22,
+      "fuel_level": 69.01,
+      "location": {
+        "lat": 36.800996,
+        "lon": 34.504354
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:26:21.179114Z",
+    "data": {
+      "speed": 77.27,
+      "engine_temp": 79.21,
+      "fuel_level": 97.14,
+      "location": {
+        "lat": 36.970024,
+        "lon": 34.67995
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:26:23.491777Z",
+    "data": {
+      "speed": 114.14,
+      "engine_temp": 89.02,
+      "fuel_level": 84.78,
+      "location": {
+        "lat": 36.976002,
+        "lon": 34.552447
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:26:25.179633Z",
+    "data": {
+      "speed": 98.79,
+      "engine_temp": 101.01,
+      "fuel_level": 71.74,
+      "location": {
+        "lat": 36.887027,
+        "lon": 34.602806
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:26:27.494281Z",
+    "data": {
+      "speed": 113.93,
+      "engine_temp": 79.0,
+      "fuel_level": 48.49,
+      "location": {
+        "lat": 36.898605,
+        "lon": 34.685172
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:26:29.185492Z",
+    "data": {
+      "speed": 41.69,
+      "engine_temp": 72.85,
+      "fuel_level": 79.8,
+      "location": {
+        "lat": 36.86723,
+        "lon": 34.665011
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:26:31.487616Z",
+    "data": {
+      "speed": 111.95,
+      "engine_temp": 82.54,
+      "fuel_level": 94.24,
+      "location": {
+        "lat": 36.862391,
+        "lon": 34.536834
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:26:33.178174Z",
+    "data": {
+      "speed": 108.18,
+      "engine_temp": 90.64,
+      "fuel_level": 43.61,
+      "location": {
+        "lat": 36.838176,
+        "lon": 34.500656
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:26:35.492930Z",
+    "data": {
+      "speed": 40.56,
+      "engine_temp": 80.78,
+      "fuel_level": 21.61,
+      "location": {
+        "lat": 36.835757,
+        "lon": 34.586187
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:26:37.183748Z",
+    "data": {
+      "speed": 49.62,
+      "engine_temp": 75.93,
+      "fuel_level": 94.64,
+      "location": {
+        "lat": 36.906609,
+        "lon": 34.589098
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:26:39.493813Z",
+    "data": {
+      "speed": 99.77,
+      "engine_temp": 89.01,
+      "fuel_level": 27.01,
+      "location": {
+        "lat": 36.810098,
+        "lon": 34.681974
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:26:41.186766Z",
+    "data": {
+      "speed": 116.54,
+      "engine_temp": 81.61,
+      "fuel_level": 35.73,
+      "location": {
+        "lat": 36.99039,
+        "lon": 34.558866
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:26:43.481438Z",
+    "data": {
+      "speed": 73.33,
+      "engine_temp": 76.6,
+      "fuel_level": 79.63,
+      "location": {
+        "lat": 36.950882,
+        "lon": 34.559641
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:26:45.180049Z",
+    "data": {
+      "speed": 111.13,
+      "engine_temp": 84.88,
+      "fuel_level": 94.51,
+      "location": {
+        "lat": 36.877243,
+        "lon": 34.519673
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:26:47.476028Z",
+    "data": {
+      "speed": 68.3,
+      "engine_temp": 93.56,
+      "fuel_level": 44.07,
+      "location": {
+        "lat": 36.81766,
+        "lon": 34.596908
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:26:49.186465Z",
+    "data": {
+      "speed": 44.93,
+      "engine_temp": 80.1,
+      "fuel_level": 94.35,
+      "location": {
+        "lat": 36.830111,
+        "lon": 34.563097
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:26:51.484617Z",
+    "data": {
+      "speed": 110.55,
+      "engine_temp": 88.83,
+      "fuel_level": 30.59,
+      "location": {
+        "lat": 36.921321,
+        "lon": 34.527153
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:26:53.179761Z",
+    "data": {
+      "speed": 111.12,
+      "engine_temp": 99.5,
+      "fuel_level": 80.81,
+      "location": {
+        "lat": 36.871723,
+        "lon": 34.560241
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:26:55.491116Z",
+    "data": {
+      "speed": 59.38,
+      "engine_temp": 72.06,
+      "fuel_level": 94.81,
+      "location": {
+        "lat": 36.987006,
+        "lon": 34.653243
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:26:57.181538Z",
+    "data": {
+      "speed": 41.38,
+      "engine_temp": 89.47,
+      "fuel_level": 68.09,
+      "location": {
+        "lat": 36.828052,
+        "lon": 34.657354
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:26:59.482964Z",
+    "data": {
+      "speed": 110.24,
+      "engine_temp": 105.28,
+      "fuel_level": 88.74,
+      "location": {
+        "lat": 36.836533,
+        "lon": 34.598841
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:27:01.184247Z",
+    "data": {
+      "speed": 49.97,
+      "engine_temp": 104.37,
+      "fuel_level": 62.3,
+      "location": {
+        "lat": 36.94391,
+        "lon": 34.645608
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:27:03.495592Z",
+    "data": {
+      "speed": 63.8,
+      "engine_temp": 85.06,
+      "fuel_level": 61.85,
+      "location": {
+        "lat": 36.839622,
+        "lon": 34.660028
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:27:05.177466Z",
+    "data": {
+      "speed": 109.98,
+      "engine_temp": 93.62,
+      "fuel_level": 32.52,
+      "location": {
+        "lat": 36.838538,
+        "lon": 34.572254
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:27:07.483545Z",
+    "data": {
+      "speed": 52.06,
+      "engine_temp": 88.16,
+      "fuel_level": 92.88,
+      "location": {
+        "lat": 36.825864,
+        "lon": 34.61252
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:27:09.183161Z",
+    "data": {
+      "speed": 100.38,
+      "engine_temp": 73.32,
+      "fuel_level": 62.08,
+      "location": {
+        "lat": 36.88409,
+        "lon": 34.511647
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:27:11.494625Z",
+    "data": {
+      "speed": 103.29,
+      "engine_temp": 99.2,
+      "fuel_level": 97.36,
+      "location": {
+        "lat": 36.918354,
+        "lon": 34.647164
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:27:13.176512Z",
+    "data": {
+      "speed": 99.88,
+      "engine_temp": 97.8,
+      "fuel_level": 28.66,
+      "location": {
+        "lat": 36.8597,
+        "lon": 34.543732
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:27:15.488366Z",
+    "data": {
+      "speed": 70.16,
+      "engine_temp": 93.66,
+      "fuel_level": 91.0,
+      "location": {
+        "lat": 36.93596,
+        "lon": 34.525063
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:27:17.187335Z",
+    "data": {
+      "speed": 73.01,
+      "engine_temp": 95.8,
+      "fuel_level": 50.8,
+      "location": {
+        "lat": 36.996402,
+        "lon": 34.583582
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:27:19.495831Z",
+    "data": {
+      "speed": 67.34,
+      "engine_temp": 109.2,
+      "fuel_level": 27.91,
+      "location": {
+        "lat": 36.836511,
+        "lon": 34.541711
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:27:21.172010Z",
+    "data": {
+      "speed": 88.77,
+      "engine_temp": 101.49,
+      "fuel_level": 94.49,
+      "location": {
+        "lat": 36.910184,
+        "lon": 34.669588
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:27:23.478034Z",
+    "data": {
+      "speed": 116.32,
+      "engine_temp": 79.96,
+      "fuel_level": 17.57,
+      "location": {
+        "lat": 36.811049,
+        "lon": 34.616096
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:27:25.172718Z",
+    "data": {
+      "speed": 61.83,
+      "engine_temp": 78.11,
+      "fuel_level": 58.38,
+      "location": {
+        "lat": 36.927244,
+        "lon": 34.526328
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:27:40.645409Z",
+    "data": {
+      "speed": 82.14,
+      "engine_temp": 95.87,
+      "fuel_level": 96.9,
+      "location": {
+        "lat": 36.861395,
+        "lon": 34.668223
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:27:42.954194Z",
+    "data": {
+      "speed": 100.91,
+      "engine_temp": 95.53,
+      "fuel_level": 46.62,
+      "location": {
+        "lat": 36.998589,
+        "lon": 34.691447
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:27:44.643074Z",
+    "data": {
+      "speed": 50.58,
+      "engine_temp": 91.69,
+      "fuel_level": 33.05,
+      "location": {
+        "lat": 36.837024,
+        "lon": 34.652733
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:27:46.953455Z",
+    "data": {
+      "speed": 115.79,
+      "engine_temp": 98.28,
+      "fuel_level": 20.92,
+      "location": {
+        "lat": 36.897337,
+        "lon": 34.589215
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:27:48.642240Z",
+    "data": {
+      "speed": 57.0,
+      "engine_temp": 76.05,
+      "fuel_level": 35.31,
+      "location": {
+        "lat": 36.986651,
+        "lon": 34.546622
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:27:50.950296Z",
+    "data": {
+      "speed": 113.73,
+      "engine_temp": 91.01,
+      "fuel_level": 67.85,
+      "location": {
+        "lat": 36.899922,
+        "lon": 34.590761
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:27:52.657278Z",
+    "data": {
+      "speed": 48.71,
+      "engine_temp": 99.5,
+      "fuel_level": 58.88,
+      "location": {
+        "lat": 36.837617,
+        "lon": 34.575286
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:27:54.954777Z",
+    "data": {
+      "speed": 91.15,
+      "engine_temp": 74.93,
+      "fuel_level": 53.37,
+      "location": {
+        "lat": 36.889954,
+        "lon": 34.550534
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:27:56.643940Z",
+    "data": {
+      "speed": 112.0,
+      "engine_temp": 107.18,
+      "fuel_level": 22.37,
+      "location": {
+        "lat": 36.893574,
+        "lon": 34.564526
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:27:58.953334Z",
+    "data": {
+      "speed": 85.43,
+      "engine_temp": 93.42,
+      "fuel_level": 57.94,
+      "location": {
+        "lat": 36.803526,
+        "lon": 34.593668
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:28:00.639621Z",
+    "data": {
+      "speed": 56.48,
+      "engine_temp": 80.58,
+      "fuel_level": 23.69,
+      "location": {
+        "lat": 36.879903,
+        "lon": 34.553644
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:28:02.946150Z",
+    "data": {
+      "speed": 52.21,
+      "engine_temp": 94.68,
+      "fuel_level": 49.29,
+      "location": {
+        "lat": 36.977433,
+        "lon": 34.573268
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:28:04.647413Z",
+    "data": {
+      "speed": 46.3,
+      "engine_temp": 106.94,
+      "fuel_level": 79.54,
+      "location": {
+        "lat": 36.902333,
+        "lon": 34.647793
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:28:06.953370Z",
+    "data": {
+      "speed": 82.05,
+      "engine_temp": 89.68,
+      "fuel_level": 24.31,
+      "location": {
+        "lat": 36.896886,
+        "lon": 34.620419
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:28:08.644691Z",
+    "data": {
+      "speed": 89.4,
+      "engine_temp": 108.74,
+      "fuel_level": 92.4,
+      "location": {
+        "lat": 36.940873,
+        "lon": 34.516208
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:28:10.961599Z",
+    "data": {
+      "speed": 82.0,
+      "engine_temp": 89.61,
+      "fuel_level": 24.73,
+      "location": {
+        "lat": 36.857757,
+        "lon": 34.584446
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:30:45.071543Z",
+    "data": {
+      "speed": 47.6,
+      "engine_temp": 71.5,
+      "fuel_level": 87.41,
+      "location": {
+        "lat": 36.831333,
+        "lon": 34.598773
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:30:46.759272Z",
+    "data": {
+      "speed": 69.11,
+      "engine_temp": 79.05,
+      "fuel_level": 30.03,
+      "location": {
+        "lat": 36.873267,
+        "lon": 34.688403
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:30:49.067314Z",
+    "data": {
+      "speed": 48.42,
+      "engine_temp": 106.09,
+      "fuel_level": 65.19,
+      "location": {
+        "lat": 36.862196,
+        "lon": 34.648082
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:30:50.761491Z",
+    "data": {
+      "speed": 99.65,
+      "engine_temp": 89.74,
+      "fuel_level": 19.39,
+      "location": {
+        "lat": 36.966313,
+        "lon": 34.619836
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:30:53.068973Z",
+    "data": {
+      "speed": 107.29,
+      "engine_temp": 71.57,
+      "fuel_level": 65.6,
+      "location": {
+        "lat": 36.802091,
+        "lon": 34.647873
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:30:54.772202Z",
+    "data": {
+      "speed": 54.06,
+      "engine_temp": 95.38,
+      "fuel_level": 50.64,
+      "location": {
+        "lat": 36.999398,
+        "lon": 34.584138
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:30:57.070828Z",
+    "data": {
+      "speed": 97.09,
+      "engine_temp": 97.48,
+      "fuel_level": 36.18,
+      "location": {
+        "lat": 36.885664,
+        "lon": 34.59634
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:30:58.765818Z",
+    "data": {
+      "speed": 114.21,
+      "engine_temp": 85.79,
+      "fuel_level": 86.25,
+      "location": {
+        "lat": 36.929549,
+        "lon": 34.563197
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:31:01.083574Z",
+    "data": {
+      "speed": 42.64,
+      "engine_temp": 76.23,
+      "fuel_level": 69.14,
+      "location": {
+        "lat": 36.967137,
+        "lon": 34.658012
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:31:02.756261Z",
+    "data": {
+      "speed": 59.62,
+      "engine_temp": 106.23,
+      "fuel_level": 41.43,
+      "location": {
+        "lat": 36.950345,
+        "lon": 34.65006
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:31:05.063354Z",
+    "data": {
+      "speed": 109.71,
+      "engine_temp": 103.53,
+      "fuel_level": 78.99,
+      "location": {
+        "lat": 36.815088,
+        "lon": 34.626627
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:31:06.756406Z",
+    "data": {
+      "speed": 53.87,
+      "engine_temp": 84.47,
+      "fuel_level": 42.45,
+      "location": {
+        "lat": 36.805866,
+        "lon": 34.664034
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:31:09.064877Z",
+    "data": {
+      "speed": 118.93,
+      "engine_temp": 97.68,
+      "fuel_level": 89.65,
+      "location": {
+        "lat": 36.847435,
+        "lon": 34.639999
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:31:25.448010Z",
+    "data": {
+      "speed": 43.86,
+      "engine_temp": 105.9,
+      "fuel_level": 79.26,
+      "location": {
+        "lat": 36.902104,
+        "lon": 34.665592
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:31:27.753924Z",
+    "data": {
+      "speed": 61.34,
+      "engine_temp": 99.12,
+      "fuel_level": 20.95,
+      "location": {
+        "lat": 36.996649,
+        "lon": 34.565048
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:31:29.452053Z",
+    "data": {
+      "speed": 70.25,
+      "engine_temp": 75.48,
+      "fuel_level": 99.35,
+      "location": {
+        "lat": 36.834958,
+        "lon": 34.540883
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:31:31.761548Z",
+    "data": {
+      "speed": 84.0,
+      "engine_temp": 85.66,
+      "fuel_level": 57.95,
+      "location": {
+        "lat": 36.919754,
+        "lon": 34.676672
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:31:33.444190Z",
+    "data": {
+      "speed": 50.8,
+      "engine_temp": 99.05,
+      "fuel_level": 83.73,
+      "location": {
+        "lat": 36.836902,
+        "lon": 34.609517
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:31:35.747007Z",
+    "data": {
+      "speed": 81.84,
+      "engine_temp": 94.85,
+      "fuel_level": 10.41,
+      "location": {
+        "lat": 36.811454,
+        "lon": 34.659678
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-04T10:31:37.448276Z",
+    "data": {
+      "speed": 101.14,
+      "engine_temp": 89.45,
+      "fuel_level": 41.11,
+      "location": {
+        "lat": 36.964624,
+        "lon": 34.648794
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-06T18:18:36.325037Z",
+    "data": {
+      "speed": 64.54,
+      "engine_temp": 96.15,
+      "fuel_level": 41.94,
+      "location": {
+        "lat": 36.818845,
+        "lon": 34.501319
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-06T18:18:38.013713Z",
+    "data": {
+      "speed": 100.06,
+      "engine_temp": 76.93,
+      "fuel_level": 85.01,
+      "location": {
+        "lat": 36.879494,
+        "lon": 34.624457
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-06T18:18:40.332964Z",
+    "data": {
+      "speed": 118.99,
+      "engine_temp": 73.46,
+      "fuel_level": 95.67,
+      "location": {
+        "lat": 36.812014,
+        "lon": 34.646052
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-06T18:18:42.016320Z",
+    "data": {
+      "speed": 62.22,
+      "engine_temp": 72.43,
+      "fuel_level": 56.52,
+      "location": {
+        "lat": 36.980842,
+        "lon": 34.601994
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-06T18:18:44.323345Z",
+    "data": {
+      "speed": 92.16,
+      "engine_temp": 84.8,
+      "fuel_level": 58.04,
+      "location": {
+        "lat": 36.858822,
+        "lon": 34.663006
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-06T18:18:46.011182Z",
+    "data": {
+      "speed": 118.0,
+      "engine_temp": 93.32,
+      "fuel_level": 27.81,
+      "location": {
+        "lat": 36.960657,
+        "lon": 34.698916
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-06T18:18:48.318867Z",
+    "data": {
+      "speed": 67.31,
+      "engine_temp": 93.86,
+      "fuel_level": 53.19,
+      "location": {
+        "lat": 36.945921,
+        "lon": 34.596868
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-06T18:18:50.022438Z",
+    "data": {
+      "speed": 82.23,
+      "engine_temp": 103.52,
+      "fuel_level": 48.69,
+      "location": {
+        "lat": 36.95328,
+        "lon": 34.529824
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-06T18:18:52.319277Z",
+    "data": {
+      "speed": 86.23,
+      "engine_temp": 71.54,
+      "fuel_level": 68.22,
+      "location": {
+        "lat": 36.949491,
+        "lon": 34.661796
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-06T18:18:54.023025Z",
+    "data": {
+      "speed": 112.75,
+      "engine_temp": 83.14,
+      "fuel_level": 55.32,
+      "location": {
+        "lat": 36.805811,
+        "lon": 34.57593
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-06T18:18:56.333574Z",
+    "data": {
+      "speed": 102.96,
+      "engine_temp": 74.64,
+      "fuel_level": 93.28,
+      "location": {
+        "lat": 36.879269,
+        "lon": 34.612081
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-06T18:18:58.012634Z",
+    "data": {
+      "speed": 40.56,
+      "engine_temp": 84.3,
+      "fuel_level": 42.68,
+      "location": {
+        "lat": 36.830294,
+        "lon": 34.656717
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-06T18:19:03.431524Z",
+    "data": {
+      "speed": 109.83,
+      "engine_temp": 74.97,
+      "fuel_level": 64.33,
+      "location": {
+        "lat": 36.986134,
+        "lon": 34.639069
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-06T18:19:05.134283Z",
+    "data": {
+      "speed": 43.35,
+      "engine_temp": 103.62,
+      "fuel_level": 41.79,
+      "location": {
+        "lat": 36.893685,
+        "lon": 34.628277
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-06T18:19:07.453418Z",
+    "data": {
+      "speed": 51.78,
+      "engine_temp": 93.85,
+      "fuel_level": 23.81,
+      "location": {
+        "lat": 36.983674,
+        "lon": 34.625857
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-06T18:19:09.132017Z",
+    "data": {
+      "speed": 106.32,
+      "engine_temp": 72.44,
+      "fuel_level": 59.29,
+      "location": {
+        "lat": 36.953311,
+        "lon": 34.51195
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-06T18:19:11.442718Z",
+    "data": {
+      "speed": 106.67,
+      "engine_temp": 107.16,
+      "fuel_level": 16.64,
+      "location": {
+        "lat": 36.869447,
+        "lon": 34.537493
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-06T18:19:13.140676Z",
+    "data": {
+      "speed": 90.26,
+      "engine_temp": 105.61,
+      "fuel_level": 53.61,
+      "location": {
+        "lat": 36.875134,
+        "lon": 34.662075
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-06T18:19:15.437818Z",
+    "data": {
+      "speed": 45.01,
+      "engine_temp": 93.74,
+      "fuel_level": 44.78,
+      "location": {
+        "lat": 36.823671,
+        "lon": 34.650463
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-06T18:19:17.128632Z",
+    "data": {
+      "speed": 99.56,
+      "engine_temp": 83.89,
+      "fuel_level": 44.61,
+      "location": {
+        "lat": 36.999932,
+        "lon": 34.577032
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-06T18:19:19.453733Z",
+    "data": {
+      "speed": 78.48,
+      "engine_temp": 78.61,
+      "fuel_level": 75.7,
+      "location": {
+        "lat": 36.977229,
+        "lon": 34.622617
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-06T18:19:21.138531Z",
+    "data": {
+      "speed": 71.27,
+      "engine_temp": 89.73,
+      "fuel_level": 11.67,
+      "location": {
+        "lat": 36.91231,
+        "lon": 34.588137
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-06T18:19:23.444533Z",
+    "data": {
+      "speed": 113.19,
+      "engine_temp": 72.0,
+      "fuel_level": 64.77,
+      "location": {
+        "lat": 36.899216,
+        "lon": 34.565613
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-06T18:19:25.125720Z",
+    "data": {
+      "speed": 106.82,
+      "engine_temp": 107.83,
+      "fuel_level": 29.53,
+      "location": {
+        "lat": 36.971714,
+        "lon": 34.641419
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-06T18:19:27.450502Z",
+    "data": {
+      "speed": 95.5,
+      "engine_temp": 71.95,
+      "fuel_level": 26.63,
+      "location": {
+        "lat": 36.940018,
+        "lon": 34.600677
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-06T18:19:29.133105Z",
+    "data": {
+      "speed": 84.19,
+      "engine_temp": 97.29,
+      "fuel_level": 91.09,
+      "location": {
+        "lat": 36.878296,
+        "lon": 34.676054
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-06T18:19:31.437200Z",
+    "data": {
+      "speed": 52.05,
+      "engine_temp": 99.06,
+      "fuel_level": 76.34,
+      "location": {
+        "lat": 36.870924,
+        "lon": 34.67229
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-06T18:19:33.126080Z",
+    "data": {
+      "speed": 61.03,
+      "engine_temp": 105.73,
+      "fuel_level": 87.07,
+      "location": {
+        "lat": 36.828861,
+        "lon": 34.54743
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-06T18:19:35.441667Z",
+    "data": {
+      "speed": 50.38,
+      "engine_temp": 70.81,
+      "fuel_level": 19.51,
+      "location": {
+        "lat": 36.950298,
+        "lon": 34.580172
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-06T18:19:37.133775Z",
+    "data": {
+      "speed": 77.32,
+      "engine_temp": 95.75,
+      "fuel_level": 80.28,
+      "location": {
+        "lat": 36.986118,
+        "lon": 34.68721
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-06T18:19:39.450475Z",
+    "data": {
+      "speed": 112.7,
+      "engine_temp": 80.68,
+      "fuel_level": 35.61,
+      "location": {
+        "lat": 36.814617,
+        "lon": 34.539942
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-06T18:19:41.134126Z",
+    "data": {
+      "speed": 99.15,
+      "engine_temp": 85.78,
+      "fuel_level": 73.21,
+      "location": {
+        "lat": 36.971302,
+        "lon": 34.677137
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-06T18:19:43.439801Z",
+    "data": {
+      "speed": 51.33,
+      "engine_temp": 108.86,
+      "fuel_level": 42.94,
+      "location": {
+        "lat": 36.859832,
+        "lon": 34.65918
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-06T18:19:45.127458Z",
+    "data": {
+      "speed": 58.83,
+      "engine_temp": 77.12,
+      "fuel_level": 17.51,
+      "location": {
+        "lat": 36.98331,
+        "lon": 34.681712
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-06T18:19:47.441985Z",
+    "data": {
+      "speed": 100.42,
+      "engine_temp": 96.5,
+      "fuel_level": 76.98,
+      "location": {
+        "lat": 36.978668,
+        "lon": 34.652922
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-06T18:19:49.134111Z",
+    "data": {
+      "speed": 106.77,
+      "engine_temp": 75.44,
+      "fuel_level": 40.69,
+      "location": {
+        "lat": 36.952817,
+        "lon": 34.661011
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-06T18:19:51.440519Z",
+    "data": {
+      "speed": 91.22,
+      "engine_temp": 85.9,
+      "fuel_level": 92.38,
+      "location": {
+        "lat": 36.998525,
+        "lon": 34.588777
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-06T18:19:53.136418Z",
+    "data": {
+      "speed": 105.46,
+      "engine_temp": 77.17,
+      "fuel_level": 65.47,
+      "location": {
+        "lat": 36.830756,
+        "lon": 34.560495
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-06T18:19:55.516889Z",
+    "data": {
+      "speed": 80.33,
+      "engine_temp": 78.54,
+      "fuel_level": 25.97,
+      "location": {
+        "lat": 36.908047,
+        "lon": 34.614277
+      }
+    }
   }
 ]

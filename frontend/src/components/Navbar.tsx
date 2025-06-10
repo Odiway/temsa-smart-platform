@@ -20,7 +20,7 @@ const Navbar = () => {
 
   return (
     <nav className="fixed top-0 left-0 w-full bg-blue-300  text-white p-4 flex justify-between shadow-md z-50">
-      <div className="text-xl font-bold text-blue-900">
+      <div className="text-xl font-bold text-blue   -900">
         TEMSA Smart Platform
       </div>
       <div className="flex gap-4 items-center">
@@ -28,6 +28,9 @@ const Navbar = () => {
           <>
             <Link href="/login" className="text-blue-600 hover:underline">Giriş Yap</Link>
            <Link href="/register" className="text-blue-600 hover:underline">Kayıt Ol</Link> 
+           <Link href="/factory">Fabrika Paneli</Link>
+           <Link href="/maintenance">Bakım Paneli</Link>
+            <Link href="/dashboard">Otobüs Takip</Link>
             <button
               onClick={handleLogin}
               className="bg-blue-500 text-white px-4 py-1 rounded hover:bg-blue-600"
